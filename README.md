@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @bezma
-- 👀 I’m interested in cooding mainly swift and javaTS, trying to catchup some basics in order to start learning my 8y old boy.. In hope he will get hooked..
-- 🌱 I’m currently learning swift..
-- 💞️ I’m looking to collaborate on....
+- 👀 I’m interested in coding, mainly swift and javaTS, trying to catchup some basics to train by brain..
 - 📫 How to reach me bezma@me.com
 
 <!---
