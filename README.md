@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bezma
-- 👀 I’m interested in coding, mainly swift and javaTS, trying to catchup some basics to train by brain..
+- 👀 I’m interested in coding, mainly swift and TypeScript, trying to catchup some basics to train by brain..
 - 📫 How to reach me bezma@me.com
 
 <!---
